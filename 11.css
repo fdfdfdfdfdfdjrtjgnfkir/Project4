@@ -296,11 +296,12 @@
 	font: 20px "Comic Sans MS", Times, serif;
 }	
 
-.form2 img{
-	width: 350px;
-	height: 350px;
-	margin: 0 80px 10px;
+.button4 button{
+	width: 100px;
+	height: 50px;
+	margin: 280px 130px 10px;
 	float: right;	
+	font: 20px "Comic Sans MS", Times, serif;
 }
 
 .file{
