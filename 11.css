@@ -160,6 +160,10 @@
 	font: 30px "Comic Sans MS", Times, serif;
 }
 
+.checkbox {
+	font: 20px "Comic Sans MS", Times, serif;
+}
+
 .button1 {
 	width: 270px; 
 	height: 30px; 
@@ -309,6 +313,36 @@
 	color: #000;
 }
 .button4 a:hover {
+	background: #39a337;
+}
+.button5 a{
+	width: 100px;
+	height: 40px;
+	margin: 30px 0 0;
+	float: right;	
+	font: 20px "Comic Sans MS", Times, serif;
+	background: #ededed;
+	border: 2px solid ;
+    border-radius: 10px;
+	text-decoration:none;
+	color: #000;
+}
+.button6 a:hover {
+	background: #39a337;
+}
+.button6 a{
+	width: 100px;
+	height: 40px;
+	margin: 100px 0 0;
+	float: right;	
+	font: 20px "Comic Sans MS", Times, serif;
+	background: #ededed;
+	border: 2px solid ;
+    border-radius: 10px;
+	text-decoration:none;
+	color: #000;
+}
+.button5 a:hover {
 	background: #39a337;
 }
 .file{
