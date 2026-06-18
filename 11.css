@@ -2,6 +2,7 @@
 	margin: 0px;
 	padding: 0px;
 }
+
 .vid {
 	margin: 0 auto; 
 	position: fixed;
@@ -523,6 +524,7 @@
 {
     visibility: visible;
 }
+
 .text2 {
 	font: 30px "Comic Sans MS", Times, serif;
 	padding: 50px;
