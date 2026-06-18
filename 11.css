@@ -538,6 +538,8 @@
 }
 
 .text2 {
+	width: 1100px;
+	height: 200px;
 	font: 20px "Comic Sans MS", Times, serif;
 	padding: 50px;
 	float: left;
