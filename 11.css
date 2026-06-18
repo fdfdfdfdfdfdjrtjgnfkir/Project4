@@ -298,16 +298,19 @@
 
 .button4 a{
 	width: 100px;
-	height: 50px;
+	height: 40px;
 	margin: 280px 130px 10px;
 	float: right;	
 	font: 20px "Comic Sans MS", Times, serif;
+	background: #ededed;
+	border: 2px solid ;
+    border-radius: 10px;
+	text-decoration:none;
+	color: #000;
 }
-
 .button4 a:hover {
 	background: #39a337;
 }
-
 .file{
 	width: 280px; 
 	margin: 0 80px 30px; 
